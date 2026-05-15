@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "delhi-1621.indernos.in",
-    "port": 27586,
-    "version": "26.1.2",
+    "port": 25646,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
