@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "delhi-5701.indernos.in",
     "port": 27586,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
